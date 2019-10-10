@@ -1,4 +1,5 @@
 Privacy policy
+
 Fill The Board Free app for Android
 
 This privacy policy governs your use of the software application Fill The Board Free (“Application”) for mobile devices that was created by prcptn. This privacy policy was last updated on October 10, 2019. Our privacy policy may change from time to time for any reason. If we make any material changes to our policies, we will place a prominent notice on our website or application. If you have any questions or concerns about our privacy policies, feel free to contact us at any time.
