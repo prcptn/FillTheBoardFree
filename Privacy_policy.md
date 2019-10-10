@@ -2,7 +2,7 @@
 
 ### Fill The Board Free app for Android
 
-This privacy policy governs your use of the software application Fill The Board Free (“Application”) for mobile devices that was created by prcptn. This privacy policy was last updated on October 10, 2019. Our privacy policy may change from time to time for any reason. If we make any material changes to our policies, we will place a prominent notice on our website or application. If you have any questions or concerns about our privacy policies, feel free to contact us at any time.
+This privacy policy governs your use of the software application Fill The Board Free (“Application”) for mobile devices that was created by prcptn. This privacy policy was last updated on October 10, 2019. Our privacy policy may change from time to time for any reason. If we make any material changes to our policies, we will place a prominent notice on our website or application. If you have any questions or concerns about our privacy policies, feel free to contact us at f-it@ukr.net.
 
 #### What information does the Application obtain and how is it used?
 The Application does not collect or transmit any personally identifiable information about you, such as your name, address, phone number or email address.
@@ -24,6 +24,3 @@ No. The Application has no facility for collecting, transmitting, or maintaining
 
 #### Do you comply with the Children’s Online Privacy Protection Act (COPPA)?
 Yes. We do not solicit nor gather any data from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us.
-
-#### Contact Us
-If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at f-it@ukr.net.
