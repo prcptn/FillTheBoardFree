@@ -24,3 +24,6 @@ No. The Application has no facility for collecting, transmitting, or maintaining
 
 #### Do you comply with the Children’s Online Privacy Protection Act (COPPA)?
 Yes. We do not solicit nor gather any data from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us.
+
+#### Contact Us
+If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at f-it@ukr.net.
